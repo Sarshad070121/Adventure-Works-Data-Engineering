@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Returns.csv",
+        "p_sink_folder": "Returns",
+        "p_file_name": "returns.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Calendar.csv",
+        "p_sink_folder": "Calendar",
+        "p_file_name": "calendar.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Customers.csv",
+        "p_sink_folder": "Customers",
+        "p_file_name": "customers.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder": "Product_Categories",
+        "p_file_name": "product_categories.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder": "Product_Subcategories",
+        "p_file_name": "product_subcategories.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Products.csv",
+        "p_sink_folder": "Products",
+        "p_file_name": "products.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder": "Sales_2015",
+        "p_file_name": "sales_2015.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder": "Sales_2016",
+        "p_file_name": "sales_2016.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder": "Sales_2017",
+        "p_file_name": "sales_2017.csv"
+    },
+    {
+        "p_rel_url": "Sarshad070121/Adventure-Works-Data-Engineering/main/Data/AdventureWorks_Territories.csv",
+        "p_sink_folder": "Works_Territories",
+        "p_file_name": "works_territories.csv"
+    }
+]
