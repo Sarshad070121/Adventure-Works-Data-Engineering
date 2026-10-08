@@ -122,13 +122,6 @@ I implemented:
 
 The dynamic pipeline allows the same pipeline structure to be used for different datasets instead of creating separate configurations for each one.
 
-### ADF Pipeline
-
-![Azure Data Factory Pipeline](screenshots/adf-pipeline.png)
-
-> Add your actual screenshot path here if you store the screenshots inside the repository.
-
----
 
 # 2. Bronze Layer — ADLS Gen2
 
@@ -256,9 +249,6 @@ The setup started with a database master key:
 CREATE MASTER KEY 
 ENCRYPTION BY PASSWORD = 'your_password_here';
 ```
-
-> Never commit the actual password to GitHub.
-
 ---
 
 ## Database-Scoped Credential
